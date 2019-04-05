@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HojaTrabajo8
+comment0.text=\r\n\ Es\ el\ main\ del\ programa.\ Genera\ la\ versi\u00F3n\ con\ VectorHeap\ y\ la\ que\ utiliza\r\n\ priority\ queue\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ @param\ args\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ command\ line\ arguments\r\n
+numComments=2
