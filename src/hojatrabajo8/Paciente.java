@@ -1,8 +1,9 @@
-package src.hojatrabajo8;
+package hojatrabajo8;
 
 /**
  * Clase que se utiliza para modelar el paciente. Sus atributos son el nombre,
  * enfermedad, y tipo de paciente.
+ * Luis Perez Aju 18212 y Roberto Castillo 
  */
 public class Paciente implements Comparable<Paciente> {
 

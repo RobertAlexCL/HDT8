@@ -1,9 +1,10 @@
-package src.hojatrabajo8;
+package hojatrabajo8;
 
 import java.util.Vector;
 
 /**
  * Clase que se utiliza para modelar el VectorHeap
+ * Luis Perez Aju 18212 y Roberto Castillo 
  */
 public class VectorHeap<E extends Comparable<E>> implements PriorityQueue1<E> {
 

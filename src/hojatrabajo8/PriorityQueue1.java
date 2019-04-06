@@ -1,4 +1,4 @@
-package src.hojatrabajo8;
+package hojatrabajo8;
 
 
 public interface PriorityQueue1<E extends Comparable<E>> {

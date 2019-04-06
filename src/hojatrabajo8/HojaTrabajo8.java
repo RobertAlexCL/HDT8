@@ -1,4 +1,4 @@
-package src.hojatrabajo8;
+package hojatrabajo8;
 
 import java.io.BufferedReader;
 import java.io.File;
